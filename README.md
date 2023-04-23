@@ -1,4 +1,4 @@
 #Practicas con GIT
 
--Otro cambios para verficar ingreso de commit con bandera
+- Se escribe algo en el archivo rama master
 
