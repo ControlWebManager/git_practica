@@ -7,4 +7,3 @@
 - escrito en branch master
 - Cambio por fuera de la linea de modificaion del archivo en master
 - Modificar desde GITHUB realizar PULL a local
-- Ahora el cambio se realiza rama master desde el Local
